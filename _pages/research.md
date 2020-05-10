@@ -7,7 +7,7 @@ author_profile: true
 ---
 ## Working Papers
 
-**[Macroeconomic effects of household leverage regulations after the crisis](https://malin-hu.github.io/files/MH_JMP.pdf)**  
+**[Macroeconomic effects of household leverage regulations after the crisis](https://malin-hu.github.io/files/MH_JMP.pdf)**  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3455611)]  
 _Job market paper_
 >This paper assesses the aggregate and distributional effects of policies that seek to reduce mortgage default by limiting a borrower's debt payment-to-income ratio.  I document empirically that highly creditworthy borrowers appear constrained by a current institutional debt payment-to-income limit.  I propose a heterogeneous-agent life-cycle model with a competitive mortgage market, endogenous default, and mortgage contract choice consistent with the empirical findings.  In the calibrated model, I show that, relative to the current uniformly applied debt payment-to-income cap, a policy that combines a more strict debt payment-to-income limit with a costly option to relax the limit lowers default and improves aggregate welfare, particularly for households in the middle of the wealth distribution who have low incomes.
 
@@ -23,14 +23,4 @@ with S. M. Ali Abbas, Laura Blattner, Mark De Broeck, and Asmaa El-Ganainy
 
 <!-- **Fiscal procyclicality and maturity of sovereign debt in emerging market economies**
 >How does the growing ability of emerging market economies to borrow long term affect the behavior of fiscal policy over the business cycle? This paper develops a dynamic stochastic general equilibrium model of a small open economy that features optimal fiscal policy, unsecured long-term debt, and default risk and calibrates the model to match features of the Chilean economy. Preliminary results indicate that, when debt matures after one period, the optimal tax rate is negatively correlated with output fluctuations. When debt is of long duration, the sign on this correlation is reversed. Long-term debt results in lower welfare in almost all states of the economy, however, which is likely due to the debt dilution problem.
- -->
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
  -->
