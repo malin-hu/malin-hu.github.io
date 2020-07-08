@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 ---
-[[download CV](http://malin-hu.github.io/files/MH_CV.pdf)]  
+[[download CV](http://malin-hu.github.io/files/HuCV.pdf)]  
 
