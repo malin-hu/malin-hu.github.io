@@ -10,7 +10,7 @@ ECON 3022-02 Macroeconomics (undergraduate)
 Wilson Hall 113, TR 9:35am - 10:50am  
 
 ECON 3022-03 Macroeconomics (undergraduate)  
-Wilson Hall 113, TR 11:00am - 12:15pm  
+Wilson Hall 113, TR 11:10am - 12:25pm  
 
 ## Past Teaching
 ECON 3020 Intermediate Macroeconomic Theory (undergraduate), Spring 2020  
