@@ -22,6 +22,6 @@ Nashville, TN 37235-1819
 (615) 322-1390
 
 **Office hours**  
-Tuesday 3:00pm - 5:00pm
+Tuesday 2:00pm - 4:00pm (virtual until further notice)
 
 
